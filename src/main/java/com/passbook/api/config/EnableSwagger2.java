@@ -1,4 +1,4 @@
-package com.passbook.sparkeighteen.config;
+package com.passbook.api.config;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
@@ -13,5 +13,4 @@ import springfox.documentation.swagger2.configuration.Swagger2DocumentationConfi
 @Documented
 @Import({Swagger2DocumentationConfiguration.class})
 public @interface EnableSwagger2 {
-
 }
