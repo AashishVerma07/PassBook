@@ -32,7 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 
-#custem files
+#custom files
 mvnw
 mvnw.cmd
 

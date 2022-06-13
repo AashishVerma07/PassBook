@@ -13,4 +13,5 @@ import springfox.documentation.swagger2.configuration.Swagger2DocumentationConfi
 @Documented
 @Import({Swagger2DocumentationConfiguration.class})
 public @interface EnableSwagger2 {
+
 }
