@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+#custem files
+mvnw
+mvnw.cmd
+

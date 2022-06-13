@@ -35,9 +35,4 @@ public class SwaggerConfig {
                 .build();
     }
 
-    @Bean
-    public RestTemplate restTemplate() {
-        return new RestTemplate();
-    }
-
 }
